@@ -1,0 +1,1 @@
+This is a web-app I created using ReactJS to visualize different sorting algorithms such as merge sort, quick sort, heap sort, bubble sort and selection in actions. Link to the app: https://ishanibhansali.github.io/Sorting-Algorithm-Visualizer/
